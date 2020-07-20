@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Mount Everest",
+        "avatar": "https://www.wonderslist.com/wp-content/uploads/2013/02/Mount-Everest.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+        "info": "When the active MK11 character's health reaches zero, instead of being knocked out, Sub-Zero replaces them with an ice clone (similar to Sub-Zero/Grandmaster) which explodes afterwards, not only dealing minor damage and inflicting bleed on the current opponent, but also restoring about 10% of that character's max health"
+    },
+    {
+        "id": 2,
+        "name": "K2",
+        "avatar": "https://www.wonderslist.com/wp-content/uploads/2013/02/K2.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+        "info": "Jade is a fictional character from the Mortal Kombat fighting game series by Midway Games. Debuting in 1993's Mortal Kombat II as an unplayable secret character who was a green palette swap of Kitana and Mileena, Jade made her first playable appearance in Ultimate Mortal Kombat 3. She has since become a regular supporting "
+    },
+    {
+        "id": 3,
+        "name": "Kangchenjunga",
+        "avatar": "https://www.wonderslist.com/wp-content/uploads/2013/02/Kangchenjunga.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+        "info": "Raiden (also known as Lord Raiden, and sometimes spelled Rayden) is a video game character in the Mortal Kombat fighting game series by Midway Games. Making his official debut as one of the original seven playable characters in 1992's Mortal Kombat, Raiden is one of the central characters of the franchise. Based on the "
+    },
+    {
+        "id": 4,
+        "name": "Annapurna",
+        "avatar": "https://www.wonderslist.com/wp-content/uploads/2013/02/Annapurna.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+        "info": "Making his debut in 1995's Mortal Kombat 3, Kabal was a member of the Black Dragon crime syndicate alongside Kano until Outworld emperor Shao Kahn's invasion took Earthrealm by storm. After the thunder god Raidenchose him to help defend Earthrealm, Kabal became a target of the Kahn's extermination squads, who subjected "
+    },
+    {
+        "id": 5,
+        "name": "Nanga Parbat ",
+        "avatar": "https://www.wonderslist.com/wp-content/uploads/2013/02/Nanga-Parbat.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+        "info": "Mortal Kombat Legends: Scorpion's Revenge is a 2020 American direct-to-video adult animated martial arts film based on the Mortal Kombat franchise created by Ed Boon and John Tobias. It is the first Mortal Kombat based property to be produced at Warner Bros. Animation after its parent company acquired the franchise in "
+    },
+    {
+        "id": 6,
+        "name": "Manaslu",
+        "avatar": "https://www.wonderslist.com/wp-content/uploads/2013/02/Manaslu.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+        "info": "Originally, Skarlet was a character rumored to have been a secret in Mortal Kombat II, though this was speculated to be a coding glitch from Kitana, much like Ermac, who had supposedly been a color glitch from Scorpion.Scarlet is a devoted servant to Shao Kahn, her every action with the goal of appeasing her father. "
+    }
+]
