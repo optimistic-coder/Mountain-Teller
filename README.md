@@ -1,6 +1,6 @@
 # Mountain Teller
 
-This project is include pretty much animation which is very  use ful in big project.
+This project is include pretty much animation and good design which is very useful in big project.
 
 Main SCreen
 
