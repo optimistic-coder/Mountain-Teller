@@ -4,8 +4,8 @@ This project is include pretty much animation which is very  use ful in big proj
 
 Main SCreen
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/githubimage.appspot.com/o/WhatsApp%20Image%202020-07-20%20at%2014.49.15%20(1).jpeg?alt=media&token=468d3cab-d244-4c01-8b51-e03c200d67b5 "Main Screen screen")
 
+<img src="https://firebasestorage.googleapis.com/v0/b/githubimage.appspot.com/o/WhatsApp%20Image%202020-07-20%20at%2014.49.15%20(1).jpeg?alt=media&token=468d3cab-d244-4c01-8b51-e03c200d67b5" width="40%">
 
 Detail Screen
 
